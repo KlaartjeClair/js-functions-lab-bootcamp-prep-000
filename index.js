@@ -12,7 +12,7 @@ function happyHolidaysTo()
     return `Happy ${holiday}, ${name}`;
     }
   function holidayContdown()
- var days = date
+ days = (date - holiday)
   {
-    return ``
+    return ` It's ${days} days until ${holiday}!`;
   }
