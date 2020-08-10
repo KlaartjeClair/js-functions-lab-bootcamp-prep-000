@@ -1,15 +1,15 @@
 // write your code below!
 function happyHollidays()
 {
-  return 'Happy holidays!';
+  return "Happy holidays!";
 }
 function happyHolidaysTo()
 {
-  return `Happy happyHolidaysTo ${name}`;
+  return `Happy holidays, to ${name}`;
 }
   function happyCustomHolidayTo()
   { 
-    return `Happy ${holiday}, ${name}`;
+    return `Happy ${holiday}, to ${name}`;
     }
   function holidayContdown()
  days = (date - holiday)
