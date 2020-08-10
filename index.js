@@ -4,9 +4,9 @@ function happyHollidays() {
 function happyHolidaysTo() {
   return `Happy holidays, to ${name}`;
 }
-  function happyCustomHolidayTo() { 
+function happyCustomHolidayTo() { 
     return `Happy ${holiday}, to ${name}`;
     }
-  function holidayContdown() {
+function holidayContdown() {
     return ` It's ${days} days until ${holiday}!`;
   }
