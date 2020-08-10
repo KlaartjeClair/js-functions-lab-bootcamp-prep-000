@@ -1,7 +1,5 @@
 // write your code below!
 
-console.log('Happy holidays!');
-
 function happyHollidays() {
   return "Happy holidays!";
 }
